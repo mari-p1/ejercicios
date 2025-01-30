@@ -1,0 +1,10 @@
+﻿int numero=0, a=30, b=60, c=90, d=100, resultado=0, resultado1=0, resultado2=0;
+Console.WriteLine("Programa que saca el 30%, 60% y 90% de cualquier numero");
+Console.WriteLine("----------------------------------");
+Console.WriteLine("digite tu numero");
+numero=int.Parse(Console.ReadLine());
+resultado=numero*a/d;
+resultado1=numero*b/d;
+resultado2=numero*c/d;
+Console.WriteLine("----------------------------------");
+Console.WriteLine("Los porcentajes de cada numero son: 30% "+resultado+" 60% "+resultado1+" y 90% "+resultado2);

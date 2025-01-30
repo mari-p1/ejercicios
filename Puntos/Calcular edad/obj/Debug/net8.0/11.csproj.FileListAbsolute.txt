@@ -1,0 +1,14 @@
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\11\bin\Debug\net8.0\11.exe
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\11\bin\Debug\net8.0\11.deps.json
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\11\bin\Debug\net8.0\11.runtimeconfig.json
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\11\bin\Debug\net8.0\11.dll
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\11\bin\Debug\net8.0\11.pdb
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\11\obj\Debug\net8.0\11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\11\obj\Debug\net8.0\11.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\11\obj\Debug\net8.0\11.AssemblyInfo.cs
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\11\obj\Debug\net8.0\11.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\11\obj\Debug\net8.0\11.dll
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\11\obj\Debug\net8.0\refint\11.dll
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\11\obj\Debug\net8.0\11.pdb
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\11\obj\Debug\net8.0\11.genruntimeconfig.cache
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\11\obj\Debug\net8.0\ref\11.dll

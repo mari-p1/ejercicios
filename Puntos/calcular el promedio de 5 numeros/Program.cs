@@ -1,0 +1,22 @@
+﻿// See https://aka.ms/new-console-template for more information
+int valor1=0, valor2=0, valor3=0,valor5=0, valor4=0, resultado=0,resultado1=0,valor9=5;
+Console.WriteLine("programa que saca promedio de 5 numeros");
+Console.WriteLine("----------------------------------");
+Console.WriteLine("digite el primer valor");
+valor1=int.Parse(Console.ReadLine());
+Console.WriteLine("----------------------------------");
+Console.WriteLine("digite el segundo valor");
+valor2=int.Parse(Console.ReadLine());
+Console.WriteLine("----------------------------------");
+Console.WriteLine("digite el tercer valor");
+valor3=int.Parse(Console.ReadLine());
+Console.WriteLine("----------------------------------");
+Console.WriteLine("digite el cuarto valor");
+valor4=int.Parse(Console.ReadLine());
+Console.WriteLine("----------------------------------");
+Console.WriteLine("digite el quinto valor");
+valor5=int.Parse(Console.ReadLine());
+resultado=valor1+valor2+valor3+valor4+valor5;
+resultado1=resultado/valor9;
+Console.WriteLine("----------------------------------");
+Console.WriteLine("El promedio de los valores es: "+resultado1);

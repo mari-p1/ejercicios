@@ -1,0 +1,14 @@
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\bin\Debug\net8.0\Puntos.exe
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\bin\Debug\net8.0\Puntos.deps.json
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\bin\Debug\net8.0\Puntos.runtimeconfig.json
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\bin\Debug\net8.0\Puntos.dll
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\bin\Debug\net8.0\Puntos.pdb
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\obj\Debug\net8.0\Puntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\obj\Debug\net8.0\Puntos.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\obj\Debug\net8.0\Puntos.AssemblyInfo.cs
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\obj\Debug\net8.0\Puntos.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\obj\Debug\net8.0\Puntos.dll
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\obj\Debug\net8.0\refint\Puntos.dll
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\obj\Debug\net8.0\Puntos.pdb
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\obj\Debug\net8.0\Puntos.genruntimeconfig.cache
+C:\Users\Aprendiz\Documents\migueliyo\Puntos\obj\Debug\net8.0\ref\Puntos.dll
